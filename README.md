@@ -1,2 +1,4 @@
 # Introduction
-This is a *very basic repo* with just an introduction in [markdown format](https://help.github.com/articles/markdown-basics/). **Replace this header and text in your own repo.**
+my name is ** Abdullah Alkalbi ** 
+my major is ** Computer Engineering ** 
+I have been in chico for a year and a half, before that I lived in Washington State and I went to a university there for 2 years and a half. 
